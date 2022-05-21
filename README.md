@@ -1,4 +1,4 @@
 # c
 
 Mijn C-programma's.
-Voor (zelf)studie en een werk in uitvoering.
+Voor (zelf)studie, werk in uitvoering.
