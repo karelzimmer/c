@@ -1,7 +1,7 @@
 /**************************************************************************/
 /* Ref       : file:///usr/share/doc/rutebook/html/node25.html            */
 /*             22.1.8 Reading command-line arguments inside C programs    */
-/* Compileren: $ gcc -Wall -o commandlineargs commandlineargs.c           */
+/* Compileren: gcc -Wall -o commandlineargs commandlineargs.c           */
 /**************************************************************************/
 #include <stdlib.h>
 #include <stdio.h>

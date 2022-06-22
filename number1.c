@@ -1,7 +1,7 @@
 /**************************************************************************/
 /* Ref       : file:///usr/share/doc/rutebook/html/node25.html            */
 /*             22.1.1 The simplest C program                              */
-/* Compileren: $ gcc -Wall -o number1 number1.c                           */
+/* Compileren: gcc -Wall -o number1 number1.c                           */
 /**************************************************************************/
 #include <stdlib.h>
 #include <stdio.h>

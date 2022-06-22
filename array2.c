@@ -2,7 +2,7 @@
 ###############################################################################
 # Ref       : file:///usr/share/doc/rutebook/html/node25.html
 #             22.1.5 Strings, arrays, and memory allocation
-# Compileren: $ gcc -Wall -o array2 array2.c
+# Compileren: gcc -Wall -o array2 array2.c
 ###############################################################################
 */
 #include <stdlib.h>

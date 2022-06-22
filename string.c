@@ -1,7 +1,7 @@
 /**************************************************************************/
 /* Ref       : file:///usr/share/doc/rutebook/html/node25.html            */
 /*             22.1.6 String operations                                   */
-/* Compileren: $ gcc -Wall -o string string.c                             */
+/* Compileren: gcc -Wall -o string string.c                             */
 /**************************************************************************/
 #include <stdlib.h>
 #include <stdio.h>
