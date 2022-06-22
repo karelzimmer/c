@@ -1,8 +1,10 @@
-/**************************************************************************/
-/* Ref       : file:///usr/share/doc/rutebook/html/node25.html            */
-/*             22.1.4 for, while, if, and switch statements               */
-/* Compileren: gcc -Wall -o forwhileifswitch forwhileifswitch.c         */
-/**************************************************************************/
+/*
+###############################################################################
+# Ref       : file:///usr/share/doc/rutebook/html/node25.html
+#             22.1.4 for, while, if, and switch statements
+# Compileren: gcc -Wall -o forwhileifswitch forwhileifswitch.c
+###############################################################################
+*/
 #include <stdlib.h>
 #include <stdio.h>
  
