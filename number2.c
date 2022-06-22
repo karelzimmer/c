@@ -1,10 +1,8 @@
-/*
-###############################################################################
-# Ref       : file:///usr/share/doc/rutebook/html/node25.html
-#             22.1.2 Variables and types
-# Compileren: gcc -Wall -o number2 number2.c
-###############################################################################
-*/
+/******************************************************************************
+Ref       : file:///usr/share/doc/rutebook/html/node25.html
+            22.1.2 Variables and types
+Compileren: gcc -Wall -o number2 number2.c
+******************************************************************************/
 #include <stdlib.h>
 #include <stdio.h>
  

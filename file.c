@@ -1,10 +1,8 @@
-/*
-###############################################################################
-# Ref       : file:///usr/share/doc/rutebook/html/node25.html
-#             22.1.7 File operations
-# Compileren: gcc -Wall -o file file.c
-###############################################################################
-*/
+/******************************************************************************
+Ref       : file:///usr/share/doc/rutebook/html/node25.html
+            22.1.7 File operations
+Compileren: gcc -Wall -o file file.c
+******************************************************************************/
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
