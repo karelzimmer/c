@@ -1,7 +1,7 @@
 /*
 ###############################################################################
-# Ref       : file:///usr/share/doc/rutebook/html/node25.html
-#             22.1.6 String operations
+# Ref: file:///usr/share/doc/rutebook/html/node25.html
+#      22.1.6 String operations
 ###############################################################################
 */
 #include <stdlib.h>

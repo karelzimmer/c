@@ -1,7 +1,7 @@
 /*
 ###############################################################################
-# Ref       : file:///usr/share/doc/rutebook/html/node25.html
-#             22.1.8 Reading command-line arguments inside C programs
+# Ref: file:///usr/share/doc/rutebook/html/node25.html
+#      22.1.8 Reading command-line arguments inside C programs
 ###############################################################################
 */
 #include <stdlib.h>

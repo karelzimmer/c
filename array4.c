@@ -1,7 +1,7 @@
 /*
 ###############################################################################
-# Ref       : file:///usr/share/doc/rutebook/html/node25.html
-#             22.1.5 Strings, arrays, and memory allocation
+# Ref: file:///usr/share/doc/rutebook/html/node25.html
+#      22.1.5 Strings, arrays, and memory allocation
 ###############################################################################
 */
 #include <stdlib.h>

@@ -1,7 +1,7 @@
 /*
 ###############################################################################
-# Ref       : file:///usr/share/doc/rutebook/html/node25.html
-#             22.1.2 Variables and types
+# Ref: file:///usr/share/doc/rutebook/html/node25.html
+#      22.1.2 Variables and types
 ###############################################################################
 */
 #include <stdlib.h>

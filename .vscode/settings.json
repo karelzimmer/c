@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.completion": "shellscript",
+        "stdlib.h": "c"
+    }
+}
