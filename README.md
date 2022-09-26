@@ -5,7 +5,7 @@ Voor (zelf)studie. Werk in uitvoering.
 
 ## Werkwijze
 
-```sh
+```console
 cd ~/c
 ```
 
@@ -24,13 +24,13 @@ int main (int argc, char *argv[])
 
 Compile:
 
-```sh
+```console
 gcc -Wall -o hello hello.c
 ```
 
 Run:
 
-```sh
+```console
 ./hello
 ```
 
