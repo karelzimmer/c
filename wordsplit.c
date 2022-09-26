@@ -1,25 +1,26 @@
 /*
 ###############################################################################
-# Ref:          file:///usr/share/doc/rutebook/html/node25.html
-#               22.1.9 A more complicated example
-# Uitvoeren :   ./wordsplit <file>, e.g. ./wordsplit README
+# file:///usr/share/doc/rutebook/html/node25.html
+# 22.1.9 A more complicated example
+# ./wordsplit <file>, e.g. ./wordsplit README
 #
-# Ref:          file:///usr/share/doc/rutebook/html/node25.html
-#               22.2 Debugging with gdb and strace
-#               22.2.1 gdb
-# Debugging:    gcc -Wall -g -O0 -o wordsplit wordsplit.c
-# gdb:          gdb -q wordsplit   (start quiet debugging wordsplit)
-#                   set args README    (vul alsnog filename in als argument)
-#                   b main             (break main)
-#                   r                  (run wordsplit)
-#                   p argc             (print argc variabele)
-#                   p p argv[1]        (print argv[1] variabele)
-#                   c                  (continue)
-#                   q                  (quit The GNU Debugger)
-# Ref :         file:///usr/share/doc/rutebook/html/node25.html
-#               22.2 Debugging with gdb and strace
-#               22.2.3 strace
-# strace:       strace ./wordsplit (display iedere system call)
+# file:///usr/share/doc/rutebook/html/node25.html
+# 22.2 Debugging with gdb and strace
+# 22.2.1 gdb
+# Debugging:
+# gcc -Wall -g -O0 -o wordsplit wordsplit.c
+# gdb -q wordsplit   (start quiet debugging wordsplit)
+#   set args README    (vul alsnog filename in als argument)
+#   b main             (break main)
+#   r                  (run wordsplit)
+#   p argc             (print argc variabele)
+#   p p argv[1]        (print argv[1] variabele)
+#   c                  (continue)
+#   q                  (quit The GNU Debugger)
+# file:///usr/share/doc/rutebook/html/node25.html
+# 22.2 Debugging with gdb and strace
+# 22.2.3 strace
+# strace ./wordsplit (display iedere system call)
 ###############################################################################
 */
 #include <stdlib.h>
