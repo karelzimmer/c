@@ -2,7 +2,6 @@
 ###############################################################################
 # Ref       : file:///usr/share/doc/rutebook/html/node25.html
 #             22.1.3 Functions
-# Compileren: gcc -Wall -o function function.c
 ###############################################################################
 */
 #include <stdlib.h>

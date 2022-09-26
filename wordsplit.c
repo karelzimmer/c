@@ -2,7 +2,6 @@
 ###############################################################################
 # Ref       : file:///usr/share/doc/rutebook/html/node25.html
 #             22.1.9 A more complicated example
-# Compileren: gcc -Wall -o wordsplit wordsplit.c
 # Uitvoeren : ./wordsplit <file>, e.g. ./wordsplit README
 #
 # Ref       : file:///usr/share/doc/rutebook/html/node25.html
