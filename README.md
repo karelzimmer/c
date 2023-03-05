@@ -3,6 +3,8 @@
 Mijn C-programma's.
 Voor (zelf)studie. Werk in uitvoering.
 
+*My C programs. For (self) study. Work in progress.*
+
 ## Werkwijze
 
 ```console
