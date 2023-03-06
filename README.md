@@ -1,11 +1,10 @@
 # c
 
-Mijn C-programma's.
-Voor (zelf)studie. Werk in uitvoering.
+My C programs.
 
-*My C programs. For (self) study. Work in progress.*
+For (self) study. Work in progress.
 
-## Werkwijze
+## Method
 
 ```console
 cd ~/c
