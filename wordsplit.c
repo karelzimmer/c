@@ -21,6 +21,9 @@
 # 22.2 Debugging with gdb and strace
 # 22.2.3 strace
 # strace ./wordsplit (display iedere system call)
+#
+# SPDX-FileCopyrightText: Karel Zimmer <info@karelzimmer.nl>
+# SPDX-License-Identifier: CC0-1.0
 ###############################################################################
 */
 #include <stdlib.h>

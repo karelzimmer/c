@@ -2,6 +2,9 @@
 ###############################################################################
 # Ref: file:///usr/share/doc/rutebook/html/node25.html
 #      22.1.5 Strings, arrays, and memory allocation
+#
+# SPDX-FileCopyrightText: Karel Zimmer <info@karelzimmer.nl>
+# SPDX-License-Identifier: CC0-1.0
 ###############################################################################
 */
 #include <stdlib.h>
